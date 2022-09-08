@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">constraint layout</string>
+    <string name="to_label">Para:</string>
+    <string name="email_hint">Introduzca la dirección de correo</string>
+    <string name="subject_hint">Asunto</string>
+    <string name="message_hint">Mensaje</string>
+    <string name="send_button">Envíar</string>
+</resources>
